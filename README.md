@@ -6,4 +6,6 @@ The game features a wide variety of levels designed as underground tunnel system
 
 # The completed task corresponds to the task description
 Design a single level that incorporates the elements and checkpoints described above. Suggest how enemies should be positioned throughout the level, and explain why your proposed level design would provide an engaging experience for the player.
-<br/><br/>![TheFrostiestCave](https://github.com/Pietrasy/TheFrostiestCave/raw/main/TheFrostiestCave.png)
+
+# [Level Design Document](https://docs.google.com/document/d/11ptSig76Q9HzYgneETdvHPkURQFiiGlwrgZQlSGyVyM/edit?usp=sharing)
+![TheFrostiestCave](https://github.com/Pietrasy/TheFrostiestCave/raw/main/TheFrostiestCave.png)
